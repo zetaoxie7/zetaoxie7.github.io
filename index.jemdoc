@@ -1,27 +1,26 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Ze Tao Xie
+=Ze Tao Xie
 
 ~~~
 {}{img_left}{photos/11.jpg}{alt text}{131}{160}
 M.Sc.,\n
 [https://web.pkusz.edu.cn/lnfo Laboratory of Ultrafast Optics],\n   
 [http://www.ece.pku.edu.cn/ School of Electronic and Computer Engineering],\n   
-[https://www.pku.edu.cn/ Peking University (PKU)]\n
+[https://www.pku.edu.cn/ Peking University]\n
 E-post: /zetaoxie/ \[@\] pku \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About me
-I received the B.S. degree in opto-electronics information science and engineering from [https://www.scnu.edu.cn/ South China Normal University] in 2019, under the supervision of [https://www.researchgate.net/profile/Xu-Guang-Huang Prof. Xuguang Huang] .
+I received the B.S. degree in Opto-electronics Information Science and Engineering from [https://www.scnu.edu.cn/ South China Normal University] in 2019, under the supervision of [https://www.researchgate.net/profile/Xu-Guang-Huang Prof. Xuguang Huang] . I am currently  doing the M.Sc. degree in Microelectronics and Solid State Electronics at [https://www.pku.edu.cn/ Peking University] ([https://admission.pku.edu.cn/docs/20181017162810274077.pdf postgraduate recommendation]), under the supervision of [https://www.researchgate.net/profile/Qian-Li-215 Assoc. Prof. Qian Li] .
 
-== Research
-My research interests include 
-- Convex Optimisation  
-- Distributed Algorithms
-- Real-time Sensor Networking
-- Wireless Networks
-- Machine Learning
+== Research interests
+- Nanophotonics
+- Nonlinear Optics
+- Metamaterials
+- light-matter interactions
 
-[research.html Find out more].
+
+
 === Recent Publications 
 . E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
 . E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of

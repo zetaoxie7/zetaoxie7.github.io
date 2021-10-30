@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{bio.html}, nofooter  
+=Bio/CV-Ze Tao Xie
+
+
+
+== Education
+
+~~~
+{}{img_left}{photos/Peking_University_seal.svg}{alt text}{60}{60}
+- 2019\/09-2022\/06, M.Sc. , /Microelectronics and Solid State Electronics/, [https://www.pku.edu.cn/ Peking University]\n
+~~~
+
+~~~
+{}{img_left}{photos/11.jpg}{alt text}{50}{50}
+- 2019\/09-2022\/06,M.Sc. , /Microelectronics and Solid State Electronics/, [https://www.pku.edu.cn/ Peking University]\n
+~~~
+
+
+
+
+== Research interests
+- Nanophotonics
+- Nonlinear Optics
+- Metamaterials
+- light-matter interactions
+
+
+[publications.html Full list of publications].
+\n
+[cv.pdf A brief cv].

@@ -1,13 +1,15 @@
-# jemdoc: menu{MENU}{bio.html}, nofooter  
+# jemdoc: menu{MENU}{bio.html}, nofooter,analytics{G-4EHWC3PPVK}
 =Bio/CV-Ze Tao Xie
-
 
 
 == Education
 
 ~~~
 {}{img_left}{photos/Peking_University_seal.svg}{alt text}{60}{60}
-- 2019\/09-2022\/06, M.Sc. , /Microelectronics and Solid State Electronics/, [https://www.pku.edu.cn/ Peking University]\n
+ 2019\/09-2022\/06\n
+[https://www.pku.edu.cn/ Peking University (PKU)]\n
+Degree: /Master of Science/ (M.Sc.)\n
+Major: Microelectronics and Solid State Electronics\n
 ~~~
 
 ~~~
@@ -17,7 +19,10 @@
 
 ~~~
 {}{img_left}{photos/South_China_Normal_University_logo.png}{alt text}{60}{60}
-- 2015\/09-2019\/06, B.Sc. , /Opto-electronics Information Science and Engineering/, [https://www.scnu.edu.cn/ South China Normal University]
+2015\/09-2019\/06\n
+[https://www.scnu.edu.cn/ South China Normal University (SCNU)]\n
+Degree: /Bachelor of Science/ (B.Sc.)\n
+Major: Opto-electronics Information Science and Engineering\n
 ~~~
 
 == Experience

@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{bio.html}, nofooter,analytics{G-4EHWC3PPVK}
+# jemdoc: menu{MENU}{bio.html}, nofooter, analytics{G-4EHWC3PPVK}
 =Bio/CV-Ze Tao Xie
 
 
@@ -8,21 +8,24 @@
 {}{img_left}{photos/Peking_University_seal.svg}{alt text}{60}{60}
  2019\/09-2022\/06\n
 [https://www.pku.edu.cn/ Peking University (PKU)]\n
-Degree: /Master of Science/ (M.Sc.)\n
-Major: Microelectronics and Solid State Electronics\n
+Degree: *Master of Science* (M.Sc.)\n
+Major: Microelectronics and Solid State Electronics (supervisor: [https://www.researchgate.net/profile/Qian-Li-215 Assoc. Prof. Qian Li])\n
 ~~~
 
 ~~~
 {}{img_left}{photos/ulco_2019.jpg}{alt text}{60}{60}
-- 2017\/07-2017\/08, Summer School, [https://www.univ-littoral.fr/ Université du Littoral-Côte-d'Opale]
+2017\/07\n
+[https://www.univ-littoral.fr/ Université du Littoral-Côte-d'Opale (ULCO)]\n
+Summer School of The Laboratory of Physico-Chemistry of the Atmosphere (with [https://www.researchgate.net/profile/Weidong-Chen-2 Prof. Weidong Chen])
 ~~~
 
 ~~~
 {}{img_left}{photos/South_China_Normal_University_logo.png}{alt text}{60}{60}
 2015\/09-2019\/06\n
 [https://www.scnu.edu.cn/ South China Normal University (SCNU)]\n
-Degree: /Bachelor of Science/ (B.Sc.)\n
-Major: Opto-electronics Information Science and Engineering\n
+Degree: *Bachelor of Science* (B.Sc.)\n
+Major: Opto-electronics Information Science and Engineering (supervisor: [https://www.researchgate.net/profile/Xu-Guang-Huang Prof. Xuguang Huang])\n
+Thesis: Research on Integrated Optical Devices based on Graphene Metasurface (/Outstanding Bachelor Thesis Award/)
 ~~~
 
 == Experience

@@ -1,0 +1,15 @@
+Install python 2x
+
+Note the folder where python is installed e.g. C:Python27python.exe
+
+Create environment variable
+
+copy jemdoc.py, jemdoc.css, and MENU.html to a folder
+
+Create a file called index.jemdoc and copy the contents from here.
+
+run command prompt as admin
+
+go the the folder
+
+run the following command py -2 jemdoc.py index.jemdoc
